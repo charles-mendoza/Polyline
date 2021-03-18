@@ -1,5 +1,5 @@
 # Polyline
-This project is a direct implementation of drawing polylines by tessellation in C++ using DirectX inspired by a [paulhoux's](https://github.com/paulhoux) [approach](https://github.com/paulhoux/Cinder-Samples/tree/master/GeometryShader). His project used OpenGL for rendering, I simply took idea from his approach and used DirectX so I could quickly and efficiently draw ESP bone lines on my game cheats. As an added bonus, I made a bettter implementation of drawing circles instead of those usual crappy functions that call trigonometric functions in a loop.
+This project is a direct implementation of drawing polylines by tessellation in C++ using DirectX inspired by [paulhoux's](https://github.com/paulhoux) [approach](https://github.com/paulhoux/Cinder-Samples/tree/master/GeometryShader). His project used OpenGL for rendering, I simply took idea from his approach and used DirectX so I could quickly and efficiently draw ESP bone lines on my internal game cheats. As an added bonus, I made a bettter implementation of drawing circles instead of those usual crappy functions that call trigonometric functions in a loop.
 
 ![Preview](https://user-images.githubusercontent.com/28957075/67417628-cb6c9c80-f5fb-11e9-86b3-75200c7a647f.png)
 
